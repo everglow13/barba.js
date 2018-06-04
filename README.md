@@ -67,7 +67,7 @@ You can install it using npm:
 ```
 npm install barba.js --save-dev
 ```
-or just including the script in your page:   
+or just including the script in your page:   6565
 ```html
 <script src="barba.min.js" type="text/javascript"></script>
 ```
